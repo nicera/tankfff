@@ -1,7 +1,8 @@
 --
 -- Author: Your Name
 -- Date: 2015-08-25 09:28:48
---
+--biubiubiubiub
+？？？？？？？？？？？？？？？？？？？？？？
 local Item_db = import(".Shop_Item_List")
 local Item = class("Item", cc.mvc.ModelBase)
 
@@ -20,7 +21,7 @@ function Item:ctor(item_id,params)
 	local item_data = Item_db[item_id]
 	Item.super.ctor(self,item_data)
 end
-
+---------bugbugbugbnui
 function Item:getItem_id()
 	return self.id_
 end
