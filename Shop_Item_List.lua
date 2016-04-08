@@ -19,6 +19,7 @@ local Item_List = {
 }
 function Item_List.getItem_Count()
 	return #Item_List
+	-----这是数据
 end
 
 return Item_List
