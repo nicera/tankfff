@@ -50,7 +50,7 @@ function Item:getItem_icon()
 	local path = "shop/item_"..self.id_..".png"
 	return path
 end
-
+--hellohhhhhhhhhhhhhhhhhh
 function Item:getItem_addText()
 	local text = ""
 	if self.health_ > 0 then
