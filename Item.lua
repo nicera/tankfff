@@ -1,7 +1,7 @@
 --
 -- Author: Your Name
 -- Date: 2015-08-25 09:28:48
---
+--biubiubiubiub
 local Item_db = import(".Shop_Item_List")
 local Item = class("Item", cc.mvc.ModelBase)
 
